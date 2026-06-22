@@ -1,0 +1,12 @@
+{
+  "nome": "Wagner Nunes",
+  "responsavel": "Gestor Principal",
+  "idade": 40,
+  "faturamento_medio_mensal": 45000.00,
+  "perfil_risco": "Moderado",
+  "metas_financeiras": {
+    "curto_prazo": "Formação de reserva de oportunidade para compra de insumos e armações em lote",
+    "medio_prazo": "Expansão do laboratório óptico interno da empresa",
+    "longo_prazo": "Abertura de uma nova filial física mapeada na região"
+  }
+}

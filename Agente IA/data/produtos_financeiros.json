@@ -1,0 +1,23 @@
+[
+  {
+    "nome": "CDB Liquidez Diária",
+    "categoria": "Renda Fixa",
+    "rentabilidade": "100% CDI",
+    "risco": "Baixo",
+    "indicado_para": "Reserva de emergência e manutenção do capital de giro imediato"
+  },
+  {
+    "nome": "LCI Pós-Fixada 90 dias",
+    "categoria": "Renda Fixa",
+    "rentabilidade": "92% CDI (Isento de Imposto)",
+    "risco": "Baixo",
+    "indicado_para": "Projetos de médio prazo como a compra programada de estoque"
+  },
+  {
+    "nome": "Fundo Multimercado Corporativo",
+    "categoria": "Fundos de Investimento",
+    "rentabilidade": "120% CDI (Histórico)",
+    "risco": "Médio",
+    "indicado_para": "Diversificação do caixa excedente visando expansão futura"
+  }
+]

@@ -1,0 +1,9 @@
+data,descricao,categoria,valor,tipo
+2026-06-01,Venda Óculos de Grau Completo,Receita,1200.00,entrada
+2026-06-02,Fornecedor de Armações Importadas,Estoque,-3500.00,saida
+2026-06-05,Serviço de Laboratório Lentes Surfaçadas,Operacional,-850.00,saida
+2026-06-10,Venda Lentes de Contato Mensais,Receita,450.00,entrada
+2026-06-12,Aluguel do Ponto Comercial,Fixo,-2500.00,saida
+2026-06-15,Venda Óculos de Sol Polarizados,Receita,890.00,entrada
+2026-06-18,Marketing Digital Anúncios Locais,Marketing,-600.00,saida
+2026-06-20,Venda Armação + Lente Multifocal,Receita,2100.00,entrada
